@@ -1,0 +1,28 @@
+body{
+  font-family:poppins;
+  color:white;
+}
+.btn-primary.custom{
+  background-color:#427c9f;
+  border:#427c9f
+}
+.btn-primary.custom:hover{
+  background-color:#224053;
+}
+.nav-link.custom{
+  color:#6fa8bc
+}
+
+header.custom{
+  background-color: rgba(11, 53, 78, 0.75);
+}
+
+.card-body.custom{
+  background-color: #4b83ab;
+}
+
+.card.custom{
+  border:none;
+  border-radius: 20px;
+}
+
